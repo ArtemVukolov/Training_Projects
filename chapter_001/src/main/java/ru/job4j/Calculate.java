@@ -4,12 +4,12 @@ package ru.job4j;
  * Calculate.
  *
  * @author Artem Vukolov (avukolov@me.com)
- * @version $Id$
- * @since 0.1
+ * @version 1.0
+ * @since 27.11.2017
  */
 public class Calculate {
     /**
-     * Main.
+     * Main
      * @param args - args.
      */
     public static void main(String[] args) {
