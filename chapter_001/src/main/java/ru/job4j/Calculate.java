@@ -1,7 +1,7 @@
 package ru.job4j;
 
 /**
- * Calculate.
+ * CalculateTest.
  *
  * @author Artem Vukolov (avukolov@me.com)
  * @version 1.0
