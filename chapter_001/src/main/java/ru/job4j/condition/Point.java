@@ -28,6 +28,13 @@ public class Point {
         double result = Math.sqrt(Math.pow(x2 - x1, 2) + Math.pow(y2 - y1, 2));
         return result;
     }
+    public double getX() {
+        return this.x;
+    }
+    public double getY() {
+        return this.y;
+    }
+
 
     public static void main(String[] args) {
         Point a = new Point(0, 1);
