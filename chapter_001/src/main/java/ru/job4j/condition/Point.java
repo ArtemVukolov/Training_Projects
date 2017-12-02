@@ -16,15 +16,13 @@ public class Point {
         this.x = x;
         this.y = y;
     }
-
     public double distanceTo(Point that) {
         Point a = this;
-        Point b = that;
 
         int x1 = a.x;
         int y1 = a.y;
-        int x2 = b.x;
-        int y2 = b.y;
+        int x2 = that.x;
+        int y2 = that.y;
         double result = Math.sqrt(Math.pow(x2 - x1, 2) + Math.pow(y2 - y1, 2));
         return result;
     }
