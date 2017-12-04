@@ -1,7 +1,7 @@
 package ru.job4j.loop;
 
 /**
- * // TODO add comments
+ * // Подсчет суммы чётных чисел в диапазоне.
  *
  * @author Artem Vukolov (avukolov@me.com)
  * @version $Id

@@ -7,7 +7,7 @@ import static org.junit.Assert.assertThat;
 
 
 /**
- * // TODO add comments
+ * // Подсчет суммы чётных чисел в диапазоне Тест.
  *
  * @author Artem Vukolov (avukolov@me.com)
  * @version $Id
