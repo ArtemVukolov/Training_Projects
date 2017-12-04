@@ -21,7 +21,6 @@ public class Board {
             }
             builder.append(System.getProperty("line.separator"));
         }
-        String completedString = builder.toString();
-        return completedString;
+        return builder.toString();
     }
 }
